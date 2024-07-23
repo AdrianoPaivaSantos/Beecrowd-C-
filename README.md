@@ -1,2 +1,2 @@
 # Beecrowd-C++
-Repositório para códigos corretos na plataforma beecrowd utilizando a linguagem C++
+Repositório de resolução de desafios em códigos na linguagem C++
