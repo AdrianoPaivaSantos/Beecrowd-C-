@@ -29,8 +29,6 @@ using namespace std;
 
 int main()
 {
-    int carroX;
-    int carroY;
     int kilometros;
     cin>>kilometros;
     kilometros = kilometros*2;
